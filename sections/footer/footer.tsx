@@ -316,7 +316,7 @@ export function Footer({ className }: { className?: string }) {
               <p className="text-[#9B9A9A] lg:mt-0 mt-4 text-center lg:text-left">
                 Designed by{" "}
                 <a
-                  href="https://dribbble.com/JakubStaron"
+                  href="https://www.linkedin.com/in/staron-jakub/"
                   target="_blank"
                   className="underline text-white hover:opacity-80"
                   rel="noreferrer"
